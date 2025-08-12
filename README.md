@@ -1,4 +1,4 @@
-![Comic Base](images/comicbase.png)
+![Comic Base](comicbase.png)
 # Instrukcja uruchomienia programu
 
 ---
